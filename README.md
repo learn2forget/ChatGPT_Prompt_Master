@@ -1,4 +1,4 @@
-# ChatGPT_Prompt_Master
+# AIOPENAPI(智谷开放）原创免费ChatGPT教程电子书
 
 这是一个关于 ChatGPT Prompt 的原创电子书系列，包括以下内容：
 
