@@ -14,7 +14,7 @@
 10. [AI面壁计划](./AI面壁计划.pdf)
 11. [人工智能到硅基生命](./人工智能到硅基生命.pdf)
 12. [中国首部ChatGPT科幻小说《地球涌现》](./中国首部ChatGPT生成科幻小说.pdf)
-
+13. [ChatGPT全局认知调教模型](./ChatGPT全局认知调教模型.pdf)
 这些电子书籍都是原创的，内容包括理论和实践，是 ChatGPT Prompt 领域的真正实战。所有电子书籍都可以免费下载，一同探讨。让我们一起走向《ChatGPT成神》（正在实战和编写中...）
 
 你可以访问作者搭建的智谷开放网站：[aiopenapi.com](https://aiopenapi.com/)。提示语 Prompt 可以到 OpenChat 测试，访问 [chat.aiopenapi.com](https://chat.aiopenapi.com/)。
